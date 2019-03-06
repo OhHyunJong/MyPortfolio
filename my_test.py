@@ -6,3 +6,6 @@ def min(a,b):
 
 def avg(a,b):
 	return (a + b) / 2
+
+def mul(a,b):
+	return a * b
